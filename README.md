@@ -46,11 +46,7 @@ Mục tiêu của dự án là thực hành xây dựng **ứng dụng web full-
 ---
 
 ## Tools sử dụng
-
-* Lovable
-* Angrivity
-* Cursor
-* Windsurf
+* Chat GPT
 * Git
 * GitHub
 * VS Code
